@@ -1,0 +1,8 @@
+#appMainBox{
+    -fx-alignment: center
+}
+
+#title{
+    -fx-font-weight: bold;
+    -fx-font-size: 24;
+}
